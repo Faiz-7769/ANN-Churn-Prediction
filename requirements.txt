@@ -8,3 +8,4 @@ streamlit
 ipykernel
 notebook
 seaborn
+scikeras
